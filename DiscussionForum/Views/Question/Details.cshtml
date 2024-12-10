@@ -1,0 +1,56 @@
+﻿@* @using DiscussionForum.Models; *@
+@model DiscussionForum.ViewModel.QuestionDetailsViewModel;
+
+<h2>@Model.Question.Question_Title</h2>
+<p>@Model.Question.Question_Description</p>
+<p><strong>Asked on:</strong> @Model.Question.QuestionCreateAt.ToShortDateString()</p>
+
+<hr />
+
+<h3>Answers</h3>
+@if (Model.Answers != null && Model.Answers.Any())
+{
+    <ul>
+        @foreach (var answer in Model.Answers)
+        {
+            <li>
+                <p>@answer.Answer_Name</p>
+                <p><strong>By:</strong> @answer.User?.UserName on @answer.Answer_Date.ToShortDateString()</p>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No answers yet. Be the first to answer!</p>
+}
+
+
+<hr />
+
+<h3>Submit Your Answer</h3>
+
+
+<form asp-controller="Question" asp-action="AddAnswer" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <!-- Hidden input for Question_Id -->
+    <input type="hidden" asp-for="NewAnswer.Question_Id" value="@Model.Question.Question_Id" />
+
+
+    <div class="form-group" >
+        <label asp-for="NewAnswer.Answer_Name" class="control-label"></label>
+        <textarea asp-for="NewAnswer.Answer_Name" class="form-control"></textarea>
+        <span asp-validation-for="NewAnswer.Answer_Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Submit Answer" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

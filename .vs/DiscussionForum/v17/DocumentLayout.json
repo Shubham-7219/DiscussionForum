@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\views\\question\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\views\\question\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\viewmodel\\questiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\viewmodel\\questiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210110250_setmaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiscussionForum\\Migrations\\20241210110250_setmaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210105656_setma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DiscussionForum\\Migrations\\20241210105656_setma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\migrations\\20241204132416_thaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\migrations\\20241204132416_thaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\migrations\\20241210105100_removecol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\migrations\\20241210105100_removecol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\viewmodel\\questionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\viewmodel\\questionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\views\\question\\createque.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\views\\question\\createque.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\migrations\\20241204103542_proper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\migrations\\20241204103542_proper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|c:\\users\\dell\\source\\repos\\discussionforum\\discussionforum\\migrations\\20241210110756_dekhavo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FF34E8-54E4-486A-BEC8-AF2DEF7A8172}|DiscussionForum\\DiscussionForum.csproj|solutionrelative:discussionforum\\migrations\\20241210110756_dekhavo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241210110756_dekhavo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210110756_dekhavo.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Migrations\\20241210110756_dekhavo.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210110756_dekhavo.cs",
+              "RelativeToolTip": "DiscussionForum\\Migrations\\20241210110756_dekhavo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:07:56.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241210110250_setmaff.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210110250_setmaff.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Migrations\\20241210110250_setmaff.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210110250_setmaff.cs",
+              "RelativeToolTip": "DiscussionForum\\Migrations\\20241210110250_setmaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:02:51.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241210105656_setma.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210105656_setma.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Migrations\\20241210105656_setma.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210105656_setma.cs",
+              "RelativeToolTip": "DiscussionForum\\Migrations\\20241210105656_setma.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:56:56.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241210105100_removecol.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210105100_removecol.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Migrations\\20241210105100_removecol.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241210105100_removecol.cs",
+              "RelativeToolTip": "DiscussionForum\\Migrations\\20241210105100_removecol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:51:01.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241204132416_thaaa.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241204132416_thaaa.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Migrations\\20241204132416_thaaa.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241204132416_thaaa.cs",
+              "RelativeToolTip": "DiscussionForum\\Migrations\\20241204132416_thaaa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:24:17.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DiscussionForum\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:50:13.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Question\\Details.cshtml",
+              "RelativeDocumentMoniker": "DiscussionForum\\Views\\Question\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Question\\Details.cshtml",
+              "RelativeToolTip": "DiscussionForum\\Views\\Question\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T11:29:26.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\ViewModel\\QuestionDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\ViewModel\\QuestionDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\ViewModel\\QuestionDetailsViewModel.cs",
+              "RelativeToolTip": "DiscussionForum\\ViewModel\\QuestionDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:26:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnswerController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Controllers\\AnswerController.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Controllers\\AnswerController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Controllers\\AnswerController.cs",
+              "RelativeToolTip": "DiscussionForum\\Controllers\\AnswerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:54:03.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DiscussionForum\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:47:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuestionViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\ViewModel\\QuestionViewModel.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\ViewModel\\QuestionViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\ViewModel\\QuestionViewModel.cs",
+              "RelativeToolTip": "DiscussionForum\\ViewModel\\QuestionViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:46:26.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DiscussionForum\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DiscussionForum\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T10:37:31.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241204103542_proper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241204103542_proper.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Migrations\\20241204103542_proper.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Migrations\\20241204103542_proper.cs",
+              "RelativeToolTip": "DiscussionForum\\Migrations\\20241204103542_proper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:35:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Models\\Answer.cs",
+              "RelativeToolTip": "DiscussionForum\\Models\\Answer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:29:37.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Models\\Question.cs",
+              "RelativeToolTip": "DiscussionForum\\Models\\Question.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:29:15.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateQue.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Question\\CreateQue.cshtml",
+              "RelativeDocumentMoniker": "DiscussionForum\\Views\\Question\\CreateQue.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Question\\CreateQue.cshtml",
+              "RelativeToolTip": "DiscussionForum\\Views\\Question\\CreateQue.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T10:26:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "DiscussionForum\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "DiscussionForum\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:18:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DiscussionForum\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DiscussionForum\\DiscussionForum\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DiscussionForum\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T10:17:09.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

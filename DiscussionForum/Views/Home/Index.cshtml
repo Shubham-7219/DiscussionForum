@@ -1,0 +1,51 @@
+﻿@model IEnumerable<DiscussionForum.ViewModel.QuestionViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Questions</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div id="success-message" class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New Question</a>
+</p>
+
+<div class="question-list">
+    @foreach (var question in Model)
+    {
+        <div class="question-item">
+            <div class="question-header">
+                <h3>
+                    <a asp-controller="Question" asp-action="Details" asp-route-id="@question.QuestionId">
+                        @question.Title
+                    </a>
+                </h3>
+                <span class="question-meta">
+                    Asked by <strong>@(question.Username ?? "Unknown User")</strong> on
+                    @(question.CreatedAt.ToString("MMMM dd, yyyy") ?? "Unknown Date")
+                </span>
+            </div>
+            <div class="question-body">
+                <p>@question.Description</p>
+            </div>
+        </div>
+    }
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const successMessage = document.getElementById("success-message");
+        if (successMessage) {
+            setTimeout(() => {
+                successMessage.style.display = "none";
+            }, 3000); // 3 seconds
+        }
+    });
+</script>
